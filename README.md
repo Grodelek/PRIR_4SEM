@@ -1,1 +1,1 @@
-<h1>Przetwarzanie rownolegle i rozproszone Laboratoria</h1>
+<h1>Przetwarzanie rownolegle i rozproszone laboratoria</h1>
