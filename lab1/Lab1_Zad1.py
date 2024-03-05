@@ -25,6 +25,3 @@ t5.start()
 print("End program")
 #Wniosek: Aby wszystkie watki sie wykonaly bez uzycia .join cale wykonanie trwa okolo 3s
 #Jako pierwsze wykonuja sie 2 pierwsze watki ustawione z powloka czasowa 2s a nastepnie po sekundzie nastepne 3.
-#A to dlatego poniewaz wszystkie uruchamiaja sie na raz poniewaz nie uzylismy .join ktore powodowaloby w pewnym rodzaju
-#kolejke, watki czekalyby na zakonczenie sie poprzednich wtedy calosc wykonywala sie 5 sekund
-
