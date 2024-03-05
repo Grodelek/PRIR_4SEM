@@ -1,2 +1,1 @@
-# PRIR_4SEM
-Przetwarzanie rownolegle i rozproszone
+<h1>Przetwarzanie rownolegle i rozproszone Laboratoria</h1>
