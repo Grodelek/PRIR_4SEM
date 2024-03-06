@@ -33,7 +33,6 @@ if __name__ == "__main__":
     for thread in threads:
         thread.join()
 
-    # Now, create threads for multiplication
     threads = []
 
     for i in range(thread_count):
