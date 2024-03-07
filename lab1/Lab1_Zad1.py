@@ -24,4 +24,4 @@ t5.start()
 
 print("End program")
 #Wniosek: Aby wszystkie watki sie wykonaly bez uzycia .join cale wykonanie trwa okolo 3s
-#Jako pierwsze wykonuja sie 2 pierwsze watki ustawione z powloka czasowa 2s a nastepnie po sekundzie nastepne 3.
+#Jako pierwsze wykonuja sie 2 pierwsze watki ustawione z powloka czasowa 2s a potem nastepne 3.
