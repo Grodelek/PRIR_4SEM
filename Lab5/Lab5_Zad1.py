@@ -18,7 +18,7 @@ def scrap_info(url):
     return naglowki, odnosniki, dane_adresowe
 
 if __name__ == "__main__":
-    url = "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html"
+    url = "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html"
     naglowki, odnosniki, dane_adresowe = scrap_info(url)
 
     print("Nagłówki:")
